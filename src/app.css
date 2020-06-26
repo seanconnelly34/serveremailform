@@ -1,0 +1,38 @@
+.sigCanvas {
+  border: 1px solid black;
+}
+.body {
+  background-color: #faf9f3;
+}
+.registration {
+  text-align: center;
+  font-size: 33px;
+  color: #443f3f;
+  margin-bottom: 0px;
+  text-decoration: underline;
+}
+h1,
+h2 {
+  color: #443f3f;
+}
+.MuiTypography-root,
+.MuiFormControlLabel-label,
+.MuiTypography-body1 {
+  font-size: 19px !important;
+}
+.MuiInput-root,
+.MuiInput-underline,
+.MuiInputBase-fullWidth,
+.MuiInput-fullWidth,
+.MuiInputBase-formControl,
+.MuiInput-formControl,
+.MuiInputBase-adornedEnd {
+  font-size: 19px !important;
+}
+.checkBoxes {
+  margin-top: 28px;
+}
+.yesno {
+  margin-top: 10px;
+  margin-left: 20px;
+}
